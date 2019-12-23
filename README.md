@@ -1,3 +1,3 @@
 # Google-colab
 
-Running ``R`` on Google colab.
+This repository provides steps for running ``R`` on Google colab.
